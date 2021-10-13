@@ -7,6 +7,9 @@ Utilizes IndexDB to provide offline and online storage and functionality for a P
 
 ## Deployed Application
 
+![Screen Shot 2021-10-12 at 11 27 26 PM](https://user-images.githubusercontent.com/45496074/137062146-92dc4907-7e8e-49ca-ba00-ce3a686fb710.png)
+
+
 ## Table of Content
 * Installation
 * Usage
